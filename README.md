@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Fresh Oan's Website
 
-You can use the [editor on GitHub](https://github.com/Bruce-Migeri/miniature-adventure/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Writing thoughts can be a great way of aligning the mind as well as gaining control of life. Thoughts can be meaningful, crazy, queer, adventurous and the list goes on.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Whim
+Whimsical thoughts are those which are unusual in a playful or amusing way, that is, not serious.
+
 
 ```markdown
-Syntax highlighted code block
+-A hen is only an egg's way of making another egg.
 
-# Header 1
-## Header 2
-### Header 3
+-Sampha 
 
-- Bulleted
-- List
+-Too spooky for me
 
-1. Numbered
-2. List
+-Peanut butter 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+-Let me leave this here
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bruce-Migeri/miniature-adventure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Legit Thoughts
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```markdown
+-“You say freak, I say unique.” ― Christian Baloga
+
+-“The only really interesting thing is
+what happens between two people in a room.”― Francis Bacon
+
+```
+
+
+### This Heading
+```markdown
+What did one road say to the other?
+– Let’s meet at the crossing!
+
+```
+PEACE!
+
+
+
+
